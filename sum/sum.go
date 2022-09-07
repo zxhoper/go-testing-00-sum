@@ -1,4 +1,4 @@
-package sum
+package github.com/zxhoper/go-testing-00-sum/sum
 
 // Ints returns the sum of a list of intergers.
 func Ints(vs ...int) int {
